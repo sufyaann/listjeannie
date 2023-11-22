@@ -1415,4 +1415,8 @@
 	.about-wrap .has-2-columns.is-wider-left img {
 		max-width: 160px;
 	}
+	.about-wrap .has-2-columns.is-wider-right img,
+	.about-wrap .has-2-columns.is-wider-left img {
+		max-width: 160px;
+	}
 }
